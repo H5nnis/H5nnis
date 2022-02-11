@@ -1,6 +1,7 @@
 - Hi, I’m @H5nnis
 - I’m a professional popcorn eater as well as a crazy catlady
 - I’m currently studying Development of e-Services online
+- I'm also a competitive dancer 💕 swing dance.
 
 <!---
 H5nnis/H5nnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

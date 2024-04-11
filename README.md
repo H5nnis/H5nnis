@@ -1,6 +1,6 @@
 - Hi, my name is Hanna
 - I'm a competitive dancer 💕 as well as a crazy cat lady
-- I’m currently studying Development of e-Services online
+- Degree in Development of e-Services online
 
 "Upon completion of the program the student should be able to:
 

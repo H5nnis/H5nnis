@@ -1,5 +1,4 @@
 - Hi, my name is Hanna
-- I'm a competitive dancer 💕 as well as a crazy cat lady
 - Degree in Development of e-Services online
 - Microsoft Dynamics 365 Business Central Functional Consultant
 
